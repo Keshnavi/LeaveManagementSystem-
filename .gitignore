@@ -1,0 +1,15 @@
+# Node modules (React frontend)
+fullstack-front/node_modules/
+fullstack-front/build/
+
+# Java / Spring Boot (backend)
+fullstack-backend/fullstack-backend/target/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
